@@ -1,0 +1,5 @@
+[LOG]: LibVideoMergeAPI() - Frame rate: 2500
+[LOG]: LibVideoMergeAPI() - File path: C:\Users\a\Documents/RockVR/Video/2017-08-02-05-32-56-OITGX.mp4
+[LOG]: LibVideoMergeAPI() - Video file path: C:\Users\a\Documents/RockVR/Video/2017-08-02-05-32-51-RYXM5.mp4
+[LOG]: LibVideoMergeAPI() - Audio file path: C:\Users\a\Documents/RockVR/Video/2017-08-02-05-32-51-MFIRI.wav
+[LOG]: LibVideoMergeAPI() - FFmpeg path: C:/unity/. bases/Puzzler Starter/Assets/StreamingAssets/RockVR/FFmpeg/Windows/ffmpeg.exe

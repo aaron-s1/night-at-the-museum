@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0fc09684f90bdbb4e896a71613db1df6
+timeCreated: 1509949871
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerthing: {fileID: 105448, guid: de11589e097bb4990881f8e5e784527b, type: 2}
+  - material: {fileID: 2100000, guid: 956b4096e6d49db4da8e55025dcc8cc5, type: 2}
+  - clip_click: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

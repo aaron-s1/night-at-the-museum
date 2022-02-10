@@ -1,0 +1,7 @@
+[LOG]: LibVideoCaptureAPI() - Frame width: 1280
+[LOG]: LibVideoCaptureAPI() - Frame height: 720
+[LOG]: LibVideoCaptureAPI() - Frame rate: 30
+[LOG]: LibVideoCaptureAPI() - Projection: 0
+[LOG]: LibVideoCaptureAPI() - File path: C:\Users\a\Documents/RockVR/Video/2017-08-02-05-32-51-RYXM5.mp4
+[LOG]: LibVideoCaptureAPI() - FFmpeg path: C:/unity/. bases/Puzzler Starter/Assets/StreamingAssets/RockVR/FFmpeg/Windows/ffmpeg.exe
+[LOG]: Close() - Success: Ture

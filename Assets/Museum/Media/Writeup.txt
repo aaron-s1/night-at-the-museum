@@ -1,0 +1,51 @@
+Introduction
+This project was made as a requirement for Udacity's VR Nanodegree class.
+Its intention is to showcase a Virtual Reality technology, and express how it may impact VR in the future using multiple 'stations'.
+
+Outlook
+The intent of this project is to inform potential users about up and coming virtual reality gloves, and how it may improve their lives. They should be able to easily navigate about the Museum using a waypoint system, learning about how VR gloves might impact different subjects.
+
+Persona
+Name: John
+Age: 29
+Occupation: Security Engineer
+VR Experience: Beginner-Intermediate
+Quote: "I'm interested in anything related to VR and the tools it offers."
+
+John likes to analyze systems for flaws. He sees programs and mediums merely as tools to help him do his job. He has a solid interest in VR, but mostly enjoys analyzing it critically for security issues.
+
+
+Design Sketch
+
+
+Screenshots and Gameplay
+<>
+
+Video Gameplay
+<>
+
+Gameplay Walkthrough Explanation
+The player starts at an entryway.
+They see a Welcome sign, and read how to navigate about the Museum.  
+After choosing to enter, they slide into the middle of the room, where multiple information booths and waypoints navigate to them open up.
+They can navigate from one booth to any other booth freely, and text descriptions are beside every booth.
+Booths will play automatically while looking at them, and will pause when they are not being looked at.
+If a booth does not have a video (and thus does not play), it should indicate so.
+The game does not exactly 'end', and just 'ends' whenever the user is done playing.
+
+Development Process
+Originally there was intended to be a larger distance between each station, but I preferred a more open, simplistic area to help navigate between any waypoint to any other waypoint freely.
+All waypoints and stations were then active at all times, but it felt smoother to make them active after the player is able to actually access them.
+Eventually some pots and trash cans were added just to make things a bit less dull.
+A sort of entryway was added by where the player spawns which is intended to act like an entrance. Couldn't find any [free] appropriate Door assets that were more apt.
+
+User Testing
+Only one user test besides myself. 
+They noted that text descriptions were a bit difficult to read and lighting was a bit dull. Brought up text size, added more lights.
+Noticed myself that the area was very bland, and added some props.
+
+Next Steps
+The project was good for getting a grasp of playing videos and getting them to pause/play at certain times, in addition to assigning proper player placement and placement of waypoints.
+Moving forward I'd like to test playing videos properly on different types of GameObjects in addition to mastering how to keep video quality at its peek while limiting performance costs.
+
+- Aaron s.

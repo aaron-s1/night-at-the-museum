@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 166520aa1bf6e15488c0c33cd17bd796
+timeCreated: 1509944753
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 105448, guid: de11589e097bb4990881f8e5e784527b, type: 2}
+  - center: {instanceID: 0}
+  - eventSystem: {instanceID: 0}
+  - infoScreenLeft: {instanceID: 0}
+  - infoScreenRight: {instanceID: 0}
+  - infoScreenBack: {instanceID: 0}
+  - gloveInfoScreen: {instanceID: 0}
+  - Station1: {instanceID: 0}
+  - Station2: {instanceID: 0}
+  - Station3: {instanceID: 0}
+  - Station4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

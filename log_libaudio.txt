@@ -1,0 +1,4 @@
+[LOG]: LibAudioCaptureAPI() - Sample rate: 48000
+[LOG]: LibAudioCaptureAPI() - File path: C:\Users\a\Documents/RockVR/Video/2017-08-02-05-32-51-MFIRI.wav
+[LOG]: LibAudioCaptureAPI() - FFmpeg path: C:/unity/. bases/Puzzler Starter/Assets/StreamingAssets/RockVR/FFmpeg/Windows/ffmpeg.exe
+[LOG]: Close() - Success: Ture
